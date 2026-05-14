@@ -9,5 +9,8 @@ node_modules/
 dist/
 *.local
 
+# TypeScript
+*.tsbuildinfo
+
 # Logs
 *.log
